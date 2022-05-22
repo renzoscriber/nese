@@ -1,6 +1,4 @@
-
-
-## 🐍Python 
+## May 4 2022
 ```python
 from moviepy.editor import VideoFileClip, concatenate_videoclips;
 
@@ -13,3 +11,12 @@ combined = concatenate_videoclips([clip1, clip2, clip3, clip4]);
 combined.write_videofile("combined");
 ```
 
+## April 1 2022
+```python
+from moviepy.editor import VideoFileClip, concatenate_videoclips;
+
+clip1 = VideoFileClip("part1.mp4").subclip('00:00:00', '00:00:00');
+
+combined = concatenate_videoclips([clip1, clip2, clip3, clip4]);
+combined.write_videofile("combined");
+```
