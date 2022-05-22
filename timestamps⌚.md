@@ -1,9 +1,4 @@
-# May 4 2022
-## 🔗Links
 
->1️⃣Part 1 | https://www.youtube.com/watch?v=iSaOrnNGea0   
->2️⃣Part 2 | https://www.youtube.com/watch?v=hFnaHjEHaBI  
->3️⃣Part 3 | https://www.youtube.com/watch?v=iSaOrnNGea0 
 
 ## 🐍Python 
 ```python
