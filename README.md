@@ -1,8 +1,15 @@
 # 💄Message Man 
 
+## 🙋Questions/Inquieries 🏻‍♀️
+> Do you want me to blur out the video?
+
 ## Quests ✅
->❗ Figure out transisions in code  
->❗ 2022 Meetings     
+>❗ Record time stamps  
+>
+>❗ 2022  
+>>❗ May 4 2022  
+>>❗ April 1 2022  
+>
 >❗ Facebook Links  
 
 ## Links 🔗 
