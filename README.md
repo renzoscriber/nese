@@ -12,25 +12,26 @@
 
 
 
-## ✅ 2022 To-Do List # May 4, 2022 ✅
+## ✅ 2022 To-Do List 
+### May 4, 2022 ✅
 - [x] Part 1 | https://www.youtube.com/watch?v=iSaOrnNGea0 ❌  
 - [x] Part 2 | https://www.youtube.com/watch?v=hFnaHjEHaBI 💄
 - [x] Part 3 | https://www.youtube.com/watch?v=iSaOrnNGea0 💄
-# April 15, 2022 
+### April 15, 2022 
 - [ ] Part 1 | https://www.youtube.com/watch?v=Y9lAkao2qeI&list=PLXy4S90BwzZ4-V4mfu_c1AQWy6OaqTirx&index=12
 - [ ] Part 2 | https://www.youtube.com/watch?v=OWbu6aYBpMk&list=PLXy4S90BwzZ4-V4mfu_c1AQWy6OaqTirx&index=13
-# April 1, 2022 ❌
+### April 1, 2022 ❌
 - [x] Part 1 | https://www.youtube.com/watch?v=1ZkfUmaFmHI  
 - [x] Part 2 | https://www.youtube.com/watch?v=B2X0SlSUfXI  
 - [x] Part 3 | https://www.youtube.com/watch?v=Vui5Y2jErnU    
-# March 18, 2022
+### March 18, 2022
 - [ ] Part 1 | https://www.youtube.com/watch?v=lwmC8wgZyXA
 - [ ] Part 2 | https://www.youtube.com/watch?v=uhLB81pI82A
-# March 9, 2022
+### March 9, 2022
 - [ ] Part 1 | https://www.youtube.com/watch?v=YtjdOpsAr5U
 - [ ] Part 2 | https://www.youtube.com/watch?v=Qt4e3Zepbns
 - [ ] Part 3 | https://www.youtube.com/watch?v=-kGPyFNdwyU 
-# February 4, 2022
+### February 4, 2022
 - [ ] Part 1 | https://www.youtube.com/watch?v=k_DORQy_z04
 - [ ] Part 2 | https://www.youtube.com/watch?v=AgCoBTBq-GI
 - [ ] Part 3 | https://www.youtube.com/watch?v=qSkHL1uPCZk
