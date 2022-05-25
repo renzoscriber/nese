@@ -12,3 +12,4 @@
 
 ## 🙋🏻‍♀️ Questions
 - [ ] Do you want me to do anything with meetings that include you in the chat? (e.g., April 15, 2022)
+- [ ] Do you want to exchange dropbox information?
