@@ -27,6 +27,7 @@
 - [x] Part 3 | https://www.youtube.com/watch?v=Vui5Y2jErnU ❌   
 ### March 22, 2022
 - [ ] Part 1 | https://www.youtube.com/watch?v=EuMLAYHNSmI&list=PLXy4S90BwzZ4-V4mfu_c1AQWy6OaqTirx&index=8 
+  - cont. @ 23:29
 ### March 18, 2022
 - [ ] Part 1 | https://www.youtube.com/watch?v=lwmC8wgZyXA
 - [ ] Part 2 | https://www.youtube.com/watch?v=uhLB81pI82A
