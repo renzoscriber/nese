@@ -19,7 +19,7 @@
 - [x] Part 3 | https://www.youtube.com/watch?v=iSaOrnNGea0 💄
 ### April 15, 2022  
 - [x] Part 1 | https://www.youtube.com/watch?v=Y9lAkao2qeI&list=PLXy4S90BwzZ4-V4mfu_c1AQWy6OaqTirx&index=12 ❌
-- [x] Part 2 | https://www.youtube.com/watch?v=OWbu6aYBpMk&list=PLXy4S90BwzZ4-V4mfu_c1AQWy6OaqTirx&index=13 ❌ (Nese messages in chat)
+- [x] Part 2 | https://www.youtube.com/watch?v=OWbu6aYBpMk&list=PLXy4S90BwzZ4-V4mfu_c1AQWy6OaqTirx&index=13 ❌ (Nese shows up in chat)
 ### April 1, 2022 ❌
 - [x] Part 1 | https://www.youtube.com/watch?v=1ZkfUmaFmHI ❌ 
 - [x] Part 2 | https://www.youtube.com/watch?v=B2X0SlSUfXI ❌ 
@@ -38,3 +38,5 @@
 - [ ] Part 2 | https://www.youtube.com/watch?v=AgCoBTBq-GI
 - [ ] Part 3 | https://www.youtube.com/watch?v=qSkHL1uPCZk
 - [ ] Part 4 | https://www.youtube.com/watch?v=BvlHHI2Jfbk
+### February 2, 2022
+- [ ] Part 1 | https://www.youtube.com/watch?v=CvASF3m-s0M&list=PLXy4S90BwzZ4-V4mfu_c1AQWy6OaqTirx&index=2 
