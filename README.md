@@ -11,7 +11,3 @@
 
 ## 📥 Dropbox Links
 - [May 4, 2022](https://www.dropbox.com/recents?_tk=web_left_nav_bar&role=personal) 📺
-
-## 🙋🏻‍♀️ Questions
-- [ ] Do you want me to do anything with meetings that include you in the chat? (e.g., April 15, 2022)
-- [ ] Do you want to exchange dropbox information?
