@@ -4,6 +4,8 @@
   
 🗳[Grassroots party](https://grassrootsparty.net/ )
 
+🪴 [Cannabis RezSolution YouTube Channel](youtube.com/channel/UCNRY5WyaC9Yd6HfLfACwCvQ)
+
 ## 📺 YouTube Playlists
 - [2022 Meetings](https://www.youtube.com/playlist?list=PLXy4S90BwzZ4-V4mfu_c1AQWy6OaqTirx)
 - [2021 Meetings](https://www.youtube.com/playlist?list=PLXy4S90BwzZ6EPq0q7hxlaw1VW4Pycs46)
